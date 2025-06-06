@@ -1,0 +1,18 @@
+TEMPERATURE: 1.00
+
+### FIELD ACCURACY
+supplement: 72.63
+
+### UID ACCURACY
+turn_taking: 78.93
+hypernym: 49.76
+qa_congruence_easy: 67.19
+qa_congruence_tricky: 49.09
+subject_aux_inversion: 78.25
+
+### LINGUISTICS_TERM ACCURACY
+supplement: 72.63
+
+### AVERAGE ACCURACY
+64.64
+
