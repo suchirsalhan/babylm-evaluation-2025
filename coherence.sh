@@ -1,8 +1,6 @@
 #!/bin/bash
 
 models=(
-  "suchirsalhan/coh1em00"
-  "suchirsalhan/coh1em01"
   "suchirsalhan/coh1em02"
   "suchirsalhan/coh1em03"
 )
@@ -10,7 +8,6 @@ models=(
 tasks=(
   "causal"
   "mlm"
-  "mntp"
 )
 
 for model in "${models[@]}"
